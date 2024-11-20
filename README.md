@@ -2,7 +2,7 @@
 Scripts for creating, managing, and modifying services on Windows devices.
 
 Included Scripts:
-Get Services on a Client
+Fetch All Services
 Retrieves a list of all services on a Windows client.
 
 Create a New Service
