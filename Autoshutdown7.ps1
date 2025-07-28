@@ -1,7 +1,7 @@
 # === Section 1: Parameters for the Warning and Intended Shutdown Time ===
 
 $IntendedShutdownHour = 00    # Shutdown time hour (24-hour format)
-$IntendedShutdownMinute = 07  # Shutdown time minute
+$IntendedShutdownMinute =  46 # Shutdown time minute
 
 $WarningOffsetMinutes = 20
 
