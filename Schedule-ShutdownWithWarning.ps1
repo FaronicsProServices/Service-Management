@@ -5,8 +5,8 @@
 Import-Module ScheduledTasks
 
 # Configuration
-$ShutdownHour = 18           # Specify the hour for shutdown (24-hour format)
-$ShutdownMinute = 40    # Specify the minute for shutdown
+$ShutdownHour = 19           # Specify the hour for shutdown (24-hour format)
+$ShutdownMinute = 00    # Specify the minute for shutdown
 $WarningMinutesBefore = 20   # Show warning 20 mins before shutdown, this can be adjusted.
 
 # Calculate Warning Time
