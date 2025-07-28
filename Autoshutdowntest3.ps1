@@ -1,6 +1,6 @@
 # === Step 1: Set the scheduled time ===
-$hour =       # e.g., 22 = 10 PM
-$minute = 0
+$hour =   22    # e.g., 22 = 10 PM
+$minute = 25
 
 # === Step 2: Embedded script — warn, then wait 20 mins, then shutdown ===
 $shutdownScript = @'
